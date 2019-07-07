@@ -5,4 +5,4 @@ Created with Nodejs, MongoDB and ExpressJS as an assignment for Web Developer Bo
 
 Added further security measures for picture uploads.
 
-Demo version under the following link: https://secure-harbor-77541.herokuapp.com/
+Demo version available under the following link: https://secure-harbor-77541.herokuapp.com/
